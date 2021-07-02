@@ -1,23 +1,23 @@
 # odev-3
 
-***Valid değil ise ***
+***Valid değil ise***
 
 ![form-validation-ilk](https://user-images.githubusercontent.com/48677712/124332094-50fa6b00-db99-11eb-86bc-345946b1aaa4.PNG)
 
 
-***Valid ise ***
+***Valid ise***
 
 ![form-validation-sonra](https://user-images.githubusercontent.com/48677712/124332093-5061d480-db99-11eb-9b12-f07130ce1487.PNG)
 
-***Password Uzunluk ***
+***Password Uzunluk***
 
 ![passworduzunluk](https://user-images.githubusercontent.com/48677712/124332087-4dff7a80-db99-11eb-9677-8a597bda3fbd.PNG)
 
-***Password Eşleşme kontrolü ***
+***Password Eşleşme kontrolü***
 
 ![password](https://user-images.githubusercontent.com/48677712/124332091-4fc93e00-db99-11eb-8ac4-08e4d6db0b49.PNG)
 
-***Mail Kontrolü ***
+***Mail Kontrolü***
 
 ![mail](https://user-images.githubusercontent.com/48677712/124332090-4f30a780-db99-11eb-9246-c567ce7d9aa5.PNG)
 

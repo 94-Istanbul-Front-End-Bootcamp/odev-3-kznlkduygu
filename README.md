@@ -1,11 +1,11 @@
 # odev-3
 
-***Valid değil ise***
+***Valid değil ise ->***
 
 ![form-validation-ilk](https://user-images.githubusercontent.com/48677712/124332094-50fa6b00-db99-11eb-86bc-345946b1aaa4.PNG)
 
 
-***Valid ise***
+***Valid ise ->***
 
 ![form-validation-sonra](https://user-images.githubusercontent.com/48677712/124332093-5061d480-db99-11eb-9b12-f07130ce1487.PNG)
 
@@ -30,16 +30,6 @@
 
 
 
-
-Size vermiş olduğumuz form'un valid olup olmadığını kontrol etmeniz ve mesajları özelleştirmeniz bekleniyor.
-
-## Örnek sayfa yapısı
-Valid değil ise
-![alt text](/form-not-valid.png)
-
-Valid ise
-
-![alt text](/form-valid.png)
 
 
 ## Kurallar
